@@ -61,12 +61,7 @@ export default function Home() {
     backgroundImage: `linear-gradient(to bottom, #1580b6, #157fb9, #00a658, #02a35f)`,}}>
 
         <div className="absolute right-[8rem] top-10">
-          <Image
-            src="images/egetv.png"
-            alt="Ege TV Logo"
-            width={200}
-            height={200}
-          />
+        <Image src="/images/egetv.png" alt="Ege TV Logo" width={200} height={200} />
         </div>
         
         <nav className="flex justify-center items-center p-3">
@@ -86,12 +81,7 @@ export default function Home() {
         <div className="flex flex-row items-end justify-center gap-[2rem] text-center mt-[1rem]">
           <div className="flex flex-col items-center justify-center gap-[80px]">
             <div className="relative">
-              <Image
-                src="images/saglikturizmirlogo.png"
-                alt="Sağlık Turizmi Gündemi Logo"
-                width={550}
-                height={500}
-              />
+              <Image src="/images/saglikturizmirlogo.png" alt="Sağlık Turizmi Gündemi Logo" width={550} height={500} />
               <span className="absolute -top-8 left-7 text-3xl transform rotate-[1deg] italic font-bold">Ahmet Kandemir ile</span>
             </div>
 
