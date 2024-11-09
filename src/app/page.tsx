@@ -81,7 +81,7 @@ export default function Home() {
         <div className="flex flex-row items-end justify-center gap-[2rem] text-center mt-[1rem]">
           <div className="flex flex-col items-center justify-center gap-[80px]">
             <div className="relative">
-              <Image src="/images/saglikturizmirlogo.png" alt="Sağlık Turizmi Gündemi Logo" width={550} height={500} />
+            <Image src="/images/saglikturizmirlogo.png" alt="Sağlık Turizmi Gündemi Logo" width={550} height={500} />
               <span className="absolute -top-8 left-7 text-3xl transform rotate-[1deg] italic font-bold">Ahmet Kandemir ile</span>
             </div>
 
@@ -113,7 +113,7 @@ export default function Home() {
 
           <div className="relative">
             <Image
-              src="images/ahmet.png"
+              src="/images/ahmet.png"
               alt="Ahmet Kandemir"
               width={350}
               height={350}
