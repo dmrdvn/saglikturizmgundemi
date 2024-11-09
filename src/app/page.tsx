@@ -62,7 +62,7 @@ export default function Home() {
 
         <div className="absolute right-[8rem] top-10">
           <Image
-            src="/egetv.png"
+            src="images/egetv.png"
             alt="Ege TV Logo"
             width={200}
             height={200}
@@ -87,7 +87,7 @@ export default function Home() {
           <div className="flex flex-col items-center justify-center gap-[80px]">
             <div className="relative">
               <Image
-                src="/saglikturizmirlogo.png"
+                src="images/saglikturizmirlogo.png"
                 alt="Sağlık Turizmi Gündemi Logo"
                 width={550}
                 height={500}
@@ -123,7 +123,7 @@ export default function Home() {
 
           <div className="relative">
             <Image
-              src="/ahmet.png"
+              src="images/ahmet.png"
               alt="Ahmet Kandemir"
               width={350}
               height={350}
