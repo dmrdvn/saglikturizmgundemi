@@ -4,13 +4,13 @@ import "./globals.css";
 
 const montserrat = Montserrat({
   subsets: ["latin"],
-  weight: ["300","400","500","600","700"], 
-  variable: "--font-montserrat", 
+  weight: ["300", "400", "500", "600", "700"],
+  variable: "--font-montserrat",
 });
 
 const dancing = Dancing_Script({
-  subsets: ['latin'],
-  weight: ['400', '700'],
+  subsets: ["latin"],
+  weight: ["400", "700"],
   variable: "--font-dancing",
 });
 
